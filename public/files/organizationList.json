@@ -1,0 +1,82 @@
+[
+	{
+		"name": "Organization #1",
+		"key": "org1",
+		"location": {
+			"lat": 48.917860292370825,
+			"lon": 24.667894880336572
+		}
+	},
+	{
+		"name": "Organization #2",
+		"key": "org2",
+		"location": {
+			"lat": 49.823851549987424,
+			"lon": 24.07122121213644
+		}
+	},
+	{
+		"name": "Organization #3",
+		"key": "org3",
+		"location": {
+			"lat": 50.47572223014572,
+			"lon": 30.549329205737763
+		}
+	},
+	{
+		"name": "Organization #4",
+		"key": "org4",
+		"location": {
+			"lat": 49.53320701389407,
+			"lon": 25.592075302268057
+		}
+	},
+	{
+		"name": "Organization #5",
+		"key": "org5",
+		"location": {
+			"lat": 50.79124695879273,
+			"lon": 25.36004235208197
+		}
+	},
+	{
+		"name": "Organization #6",
+		"key": "org6",
+		"location": {
+			"lat": 51.223415837667176,
+			"lon": 22.553334708976138
+		}
+	},
+	{
+		"name": "Organization #7",
+		"key": "org7",
+		"location": {
+			"lat": 50.29415316840801,
+			"lon": 28.60092697627004
+		}
+	},
+	{
+		"name": "Organization #8",
+		"key": "org8",
+		"location": {
+			"lat": 50.0914761462095,
+			"lon": 19.82168056054433
+		}
+	},
+	{
+		"name": "Organization #9",
+		"key": "org9",
+		"location": {
+			"lat": 48.69072927335499,
+			"lon": 21.318880946396607
+		}
+	},
+	{
+		"name": "Organization #10",
+		"key": "org10",
+		"location": {
+			"lat": 50.02051768770996,
+			"lon": 21.941117361859327
+		}
+	}
+]

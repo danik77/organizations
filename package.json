@@ -1,0 +1,30 @@
+{
+  "name": "organizations",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@mui/material": "^5.8.6",
+    "@react-google-maps/api": "^2.12.0",
+    "google-map-react": "^2.1.10",
+    "next": "12.2.0",
+    "react": "^17.0.2",
+    "react-bootstrap": "^2.4.0",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "eslint": "8.18.0",
+    "eslint-config-next": "12.2.0"
+  },
+  "engines": {
+    "node": "16.x",
+    "npm": ">=6.0.0"
+  }
+}
