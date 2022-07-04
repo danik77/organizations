@@ -5,7 +5,7 @@ import { Container, Typography } from "@mui/material";
 import Organizations from "../src/components/Organizations/OrganizationList";
 import GoogleMap from "../src/components/Map/Map";
 
-const apiUrl = "https://organization-list.herokuapp.com/files/organizationList.json";
+const apiUrl = "http://localhost:3000/files/organizationList.json";
 
 export default function Home({ organizationList }) {
   const [activeOrganization, setActiveOrganization] = useState(null);
